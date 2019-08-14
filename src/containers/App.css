@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
 
+body {
+	height: 100vh;
+}
+
 h1 {
   	border-bottom: 10px solid #5d6063;
   	color: #5d6063;
